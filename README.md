@@ -1,4 +1,4 @@
-# Automobile-Price-Prediction
+# Automobile-mpg-Prediction
 Predict fuel consumption in MPG using Linear regression model.
 
 Contents
